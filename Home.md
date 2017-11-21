@@ -10,52 +10,47 @@ Here is a list of resources collated from loomio and keybase.  Please add more.
 # Editable guide
 
 * [Crypto Instructions Shared Open Source Documentation](https://docs.google.com/document/d/1KNGu-RQ5Iw3FovJKPWHSyc2p-_HXU9V9WMrrrJvSfi4/edit) Please add notes to this document as you go along so we can all benefit from your insights and learnings!
-# economic
 
+## Programming resources
 
-
-# programming resources
-
-* Many different languages: https://www.codecademy.com/
-* Maths problems: https://projecteuler.net/
+* Many different languages: [code academy](https://www.codecademy.com/)
+* Maths problems: [projecteuler.net](https://projecteuler.net/)
 * [OverTheWire: Bandit](http://overthewire.org/wargames/bandit/) game to help improve command line skills
 * [webpro/awesome-newsletters: The best (weekly) newsletters](https://github.com/webpro/awesome-newsletters)
 
-## git 
+### git 
 
-Github tutorial: https://try.github.io/levels/1/challenges/1
+* [Github tutorial](https://try.github.io/levels/1/challenges/1)
 
-## ruby 
+### ruby 
 
 * Ruby programming: [ruby koans](https://github.com/CUNY-TAP/ruby-koans)
 * [Basic Ruby app with Sinatra](https://github.com/wegotcoders/wgc_groundwork)
 * [bbatsov/ruby-style-guide: A community-driven Ruby coding style guide](https://github.com/bbatsov/ruby-style-guide)
 
-
-
-# unsorted
+## unsorted
 
 * [Triple Entry Accounting](http://iang.org/papers/triple_entry.html) - Ian Grigg
 * [ssbc/patchwork: A decentralized messaging and sharing app built on top of Secure Scuttlebutt (SSB).](https://github.com/ssbc/patchwork)
 * [Blockstream/satellite: Blockstream Satellite](https://github.com/Blockstream/satellite)
 * [Unenumerated](http://unenumerated.blogspot.de/) nick szabo's blog
-* [CryptoParty handbook](https://www.cryptoparty.in/learn/handbook)
 
-# privacy tools
+## privacy tools
 
 * [dyne/Tomb: the Crypto Undertaker](https://github.com/dyne/Tomb)
 * [Tomb :: File Encryption on GNU/Linux](https://www.dyne.org/software/tomb/)
 * [dans tomb guide on scuttlebutt](https://viewer.scuttlebot.io/%25S9KShHdAxUKhhLQxVf9R8fVcU4RdzfJZ06w8fmRLkOE%3D.sha256)
+* [CryptoParty handbook](https://www.cryptoparty.in/learn/handbook)
 
-# cryptocurrencies
+## cryptocurrencies
 
-## web
+### web
 
 * [Andrew O’Hagan · The Satoshi Affair · LRB 30 June 2016](https://www.lrb.co.uk/v38/n13/andrew-ohagan/the-satoshi-affair)
 * [The cypherpunk revolution](http://projects.csmonitor.com/cypherpunk) - the history of cryptography
 * [Off Chain with Jimmy Song - YouTube channel ](https://www.youtube.com/channel/UCEFJVYNiPp8xeIUyfaPCPQw) [jimmy song twitter](https://twitter.com/jimmysong?s=09) [Bitcoin Tech Talk](https://bitcointechtalk.com/)
 
-## books
+### books
 
 * [Cox, James - Bitcoin and Digital Currencies - The new World of Digital Freedom](http://gen.lib.rus.ec/book/index.php?md5=31EF53C1A9F74CCD3C2CC2B9F1474AC2) This book puts bitcoin into context of the history of money, which suddenly makes it seem like not such a crazy idea.  Or rather, it is not nearly as crazy as the monetary system we currently rely on. 
 
