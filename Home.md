@@ -1,7 +1,7 @@
 
 # MMT resources
 
-Here is a list of resources collated from loomio and keybase.  Please add more.  
+Here is a list of resources collated from loomio and keybase.  Please add more.  or organise them better/add comments.  
 
 # Reading group
 
