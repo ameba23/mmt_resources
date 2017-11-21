@@ -48,6 +48,9 @@ Here is a list of resources collated from loomio and keybase.  Please add more. 
 * [Andrew O’Hagan · The Satoshi Affair · LRB 30 June 2016](https://www.lrb.co.uk/v38/n13/andrew-ohagan/the-satoshi-affair)
 * [The cypherpunk revolution](http://projects.csmonitor.com/cypherpunk) - the history of cryptography
 * [Off Chain with Jimmy Song - YouTube channel ](https://www.youtube.com/channel/UCEFJVYNiPp8xeIUyfaPCPQw) [jimmy song twitter](https://twitter.com/jimmysong?s=09) [Bitcoin Tech Talk](https://bitcointechtalk.com/)
+* [mimblewimble whitepaper](https://download.wpsoftware.net/bitcoin/wizardry/mimblewimble.txt) [Silly Sounding Tech Could Seriously Reform Bitcoin - CoinDesk](https://www.coindesk.com/mimblewimble-silly-sounding-tech-seriously-reform-bitcoin/) [mimblewimble/grin - github](https://github.com/mimblewimble/grin/blob/master/doc/intro.md)
+* [rustyrussels remarkably unreliable guide to bitcoin storage](https://github.com/rustyrussell/bitcoin-storage-guide)
+* [Lightning Network](http://lightning.network/) [ElementsProject/lightning: c-lightning — a Lightning Network implementation in C](https://github.com/ElementsProject/lightning)
 
 
 
