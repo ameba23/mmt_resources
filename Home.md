@@ -11,6 +11,10 @@ Here is a list of resources collated from loomio and keybase.  Please add more. 
 
 * [Crypto Instructions Shared Open Source Documentation](https://docs.google.com/document/d/1KNGu-RQ5Iw3FovJKPWHSyc2p-_HXU9V9WMrrrJvSfi4/edit) Please add notes to this document as you go along so we can all benefit from your insights and learnings!
 
+## Models and examples
+
+* [Bail bloc](https://bailbloc.thenewinquiry.com/about.html) - using Monero mining to pay bail for low-income people in New York.
+
 ## Programming resources
 
 * Many different languages: [code academy](https://www.codecademy.com/)
