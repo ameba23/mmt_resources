@@ -37,8 +37,7 @@ Here is a list of resources collated from loomio and keybase.  Please add more. 
 
 ## privacy tools
 
-* [dyne/Tomb: the Crypto Undertaker](https://github.com/dyne/Tomb)
-* [Tomb :: File Encryption on GNU/Linux](https://www.dyne.org/software/tomb/)
+* [dyne/Tomb: the Crypto Undertaker](https://github.com/dyne/Tomb) - [Tomb :: File Encryption on GNU/Linux](https://www.dyne.org/software/tomb/)
 * [dans tomb guide on scuttlebutt](https://viewer.scuttlebot.io/%25S9KShHdAxUKhhLQxVf9R8fVcU4RdzfJZ06w8fmRLkOE%3D.sha256)
 * [CryptoParty handbook](https://www.cryptoparty.in/learn/handbook)
 
@@ -49,6 +48,8 @@ Here is a list of resources collated from loomio and keybase.  Please add more. 
 * [Andrew O’Hagan · The Satoshi Affair · LRB 30 June 2016](https://www.lrb.co.uk/v38/n13/andrew-ohagan/the-satoshi-affair)
 * [The cypherpunk revolution](http://projects.csmonitor.com/cypherpunk) - the history of cryptography
 * [Off Chain with Jimmy Song - YouTube channel ](https://www.youtube.com/channel/UCEFJVYNiPp8xeIUyfaPCPQw) [jimmy song twitter](https://twitter.com/jimmysong?s=09) [Bitcoin Tech Talk](https://bitcointechtalk.com/)
+
+
 
 ### books
 
